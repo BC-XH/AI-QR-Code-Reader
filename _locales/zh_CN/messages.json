@@ -1,0 +1,23 @@
+{
+    "extName": {
+        "message": "AI二维码扫描器"
+    },
+    "extDescription": {
+        "message": "一个基于人工智能的二维码阅读器，可以有效识别各种形状的二维码，彩色的二维码和旋转的二维码。本扩展是完全离线的，您无需担心您的数据被泄露。"
+    },
+    "extActionTitle": {
+        "message": "点击此处框选屏幕中二维码"
+    },
+    "infoBar": {
+        "message": "按下并拖动鼠标左键框选二维码，单击鼠标右键退出二维码扫描器"
+    },
+    "copySuccess": {
+        "message": "复制成功"
+    },
+    "copyFail": {
+        "message": "复制失败"
+    },
+    "copy": {
+        "message": "复制全部"
+    }
+}

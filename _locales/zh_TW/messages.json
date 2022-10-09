@@ -1,0 +1,23 @@
+{
+    "extName": {
+        "message": "AI QR Code閱讀器"
+    },
+    "extDescription": {
+        "message": "一個基於人工智慧的二維碼閱讀器，可以有效識別各種形狀的二維碼，彩色的二維碼和旋轉的二維碼。 本擴展是完全離線的，您無需擔心您的數據被洩露。"
+    },
+    "extActionTitle": {
+        "message": "點擊此處框選荧幕中二維碼"
+    },
+    "infoBar": {
+        "message": "按下並拖動滑鼠左鍵框選二維碼，按下滑鼠右鍵退出二維碼掃描器"
+    },
+    "copySuccess": {
+        "message": "拷貝成功"
+    },
+    "copyFail": {
+        "message": "拷貝失敗"
+    },
+    "copy": {
+        "message": "拷貝"
+    }
+}

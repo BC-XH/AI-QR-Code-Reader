@@ -3,7 +3,7 @@
         "message": "AI QR Code Reader"
     },
     "extDescription": {
-        "message": "An AI based QR code reader that can effectively recognise all kinds of shaped QR codes, coloured QR codes and rotating QR codes. This extension is completely offline, you don't need to worry about your data being leaked."
+        "message": "An AI based QR code reader that can effectively recognise all kinds of shaped QR codes, coloured QR codes and rotating QR codes."
     },
     "extActionTitle": {
         "message": "Click here to frame select the QR code on the screen"
